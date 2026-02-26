@@ -363,4 +363,4 @@ MIT License — 隨便用。
 
 > 我們做的不是加了什麼神奇功能，而是系統性地消除了上百個微小摩擦。就像把鞋子裡 50 粒沙子倒出來。
 > 
-> 搭配 [tete009 Firefox](https://tete009.pages.dev/) + [Ghostery (GitHub)](https://github.com/nicosResworwordev) + [Hiddify](https://hiddify.com/) = 極致體驗。
+> 搭配 [tete009 Firefox](https://tete009.pages.dev/) + [Ghostery (GitHub)](https://github.com/ghostery/ghostery-extension/releases) + [Hiddify](https://hiddify.com/) = 極致體驗。
