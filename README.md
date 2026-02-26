@@ -40,6 +40,9 @@ C:\Program Files\Mozilla Firefox\
 
 ---
 
+<img width="1034" height="949" alt="image" src="https://github.com/user-attachments/assets/56e2684d-8815-48db-9e23-108c7a628a11" />
+
+
 ## 🛡️ 強烈建議搭配 Ghostery 擴展
 
 **必須從 Ghostery 的 GitHub 下載安裝**，不要從 Firefox 附加元件商店裝。GitHub 版更新更快、沒有商店審核延遲。
