@@ -44,7 +44,7 @@ C:\Program Files\Mozilla Firefox\
 
 **必須從 Ghostery 的 GitHub 下載安裝**，不要從 Firefox 附加元件商店裝。GitHub 版更新更快、沒有商店審核延遲。
 
-📥 **[Ghostery GitHub 下載頁](https://github.com/nicosResworwordev/nicosResworwork)**
+📥 **[Ghostery GitHub 下載頁](https://github.com/ghostery/ghostery-extension/releases)**
 
 > 不要在 GitHub 搜「Ghostery」然後隨便下載不明來源的 repo。請認準 Ghostery 官方的組織帳號。
 
