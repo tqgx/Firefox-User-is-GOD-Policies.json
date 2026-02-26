@@ -82,13 +82,33 @@ Brave 花了 7 年追他們 2019 年的設計。Brave 自己也承認了。
 
 ---
 
+
 ## 🌐 額外項：搭配 Hiddify 實現極致網路體驗
+
+<img width="1580" height="655" alt="image" src="https://github.com/user-attachments/assets/15102436-1581-4457-b0a1-be17a78823ad" />
 
 **強烈建議搭配 [Hiddify](https://hiddify.com/) 使用**，走 Cloudflare 的網路，可以獲得：
 
 - **MASQUE 協議**：基於 HTTP/3 (QUIC) 封裝流量，極致的混淆能力和連接穩定性
 - **虛擬 IPv6 支援**：即使你的裝置或網路環境不支援原生 IPv6，也能獲得 IPv6 能力
 - **全球頂級 BGP 對等互連**：直連大量 Tier 1 上游（Orange、TATA、Zayo、Sparkle、Liberty、AT&T、Cloudflare、Telxius、Cogent、Lumen、NTT、DTAG、Arelion、GTT、Vocus、Telstra 等），完全不計頻寬成本，只追求效能
+
+<img width="677" height="680" alt="image" src="https://github.com/user-attachments/assets/369bb3b7-2dcc-4821-899a-7beb6ce27070" />
+
+# 必知：
+
+** TLS 分片 ＋ DNS 伪装可以开！ **
+** 直連 DNS 可以走腾讯 119.29.29.98 为腾讯企业版，国内用户可以用99（有些网页加载不出来）：★ DNS并必须首选 IPv6，远程DNS可以走谷歌的 tcp://8.8.8.8 在使用 Ipv6 谷歌翻译速度加快十倍以上，就能知道ipv6的重要性，路由设置也可以改仅Ipv6 **
+** 
+
+
+<img width="323" height="207" alt="image" src="https://github.com/user-attachments/assets/9b6cdf51-6200-49c4-966f-af19c10e4ed3" />
+
+
+# ★ 真专线—秘密！ ：
+
+开 WARP 增强安全性後，在开 WARP_IN_WARP 走三个 CloudFlare 的内网生态，加上 CF 的Argo 跟内网部属，一般情况下有严重的惩罚机制，但在这只要你的网路够快就都能连
+
 
 ### 為什麼必須用 SOCKS5？
 
