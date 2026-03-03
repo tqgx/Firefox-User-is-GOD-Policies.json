@@ -14,7 +14,7 @@
 
 
 # 下载 →
-https://github.com/tqgx/Firefox-User-is-GOD-Policies.json/releases/download/Firefox-User-is-GOD-Policies.json/policies.json
+https://github.com/tqgx/Firefox-User-is-GOD-Policies.json/releases/download/V6-%E7%94%A8%E6%88%B7%E6%98%AF%E4%B8%8A%E5%B8%9D-%E6%9C%AB%E8%AE%A4%E4%B8%BA%E7%8E%8B/policies.json
 
 ---
 
